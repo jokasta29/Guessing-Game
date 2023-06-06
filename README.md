@@ -43,9 +43,6 @@ I'm sharing this project to foster collaboration and knowledge sharing within th
 
 This project is licensed under the [MIT License](LICENSE). You are welcome to use, modify, and distribute the code as needed.
 
-## Acknowledgments
-
-I would like to express my gratitude to the programming community for providing valuable resources and support throughout my learning journey. This project would not have been possible without their contributions.
 
 Thank you for checking out my second coding project on GitHub. I hope you find it engaging and inspiring. Happy coding!
 
