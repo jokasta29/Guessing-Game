@@ -1,6 +1,6 @@
-# Guessing Game
+# Guessing Game in Java ☕
 
-Welcome to my second coding project on GitHub! This is a simple number guessing game developed in Java, designed to help me further explore programming concepts. Although it's a basic project, it demonstrates my ability to create interactive applications and showcases my commitment to continuous learning.
+Welcome to my coding project on GitHub! This is a simple number guessing game developed in Java ☕, designed to help me further explore programming concepts. Although it's a basic project, it demonstrates my ability to create interactive applications and showcases my commitment to continuous learning.
 
 ## Project Description
 
@@ -44,5 +44,5 @@ I'm sharing this project to foster collaboration and knowledge sharing within th
 This project is licensed under the [MIT License](LICENSE). You are welcome to use, modify, and distribute the code as needed.
 
 
-Thank you for checking out my second coding project on GitHub. I hope you find it engaging and inspiring. Happy coding!
+Thank you for checking out my coding project on GitHub. I hope you find it engaging and inspiring. Happy coding!
 
